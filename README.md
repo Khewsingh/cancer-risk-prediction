@@ -1,3 +1,5 @@
+🔗 **Live demo:** [Try the app here](https://cancer-risk-prediction-h4emwvvbpspvcdpfl5bnnh.streamlit.app/)
+
 # 🩺 Cancer Risk Level Prediction
 
 A machine learning project that predicts a person's **cancer risk level (Low / Medium / High)** from lifestyle and health factors such as smoking, BMI, diet, family history and more.
