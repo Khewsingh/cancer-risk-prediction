@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Data and model files (large / re-creatable)
+cancer-risk-factors.csv
+*.pkl
